@@ -1,0 +1,7 @@
+document.write('<footer>')
+document.write('<p>')
+document.write('<q>')
+document.write('Jose')
+document.write('</q>')
+document.write('</p>')
+document.write('</footer>')

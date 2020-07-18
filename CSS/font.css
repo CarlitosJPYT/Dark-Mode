@@ -1,0 +1,18 @@
+section{padding: 10px;}
+h1{
+     cursor: pointer;
+     text-align: center;
+}
+p{text-align: justify;}
+img{
+     border-radius: 5px;
+     box-shadow: 2px 5px 8px;
+     height: 150px;
+     display: inline-block;
+     margin: 10px;
+     width: 150px;
+}
+footer p{
+     cursor: pointer;
+     text-align: center;
+}
